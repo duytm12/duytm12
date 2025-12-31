@@ -5,14 +5,14 @@
   <h3 align="center">Software Engineer | .NET & Azure Specialist | Data Scientist</h3>
 
   <p align="center">
-    <a href="https://github.com/duytm12/duytm12/blob/main/MinhDuyTruong_MR.pdf"><img src="https://img.shields.io/badge/My Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
-    &nbsp;
-    <a href="https://minhduy-truong.com"><img src="https://img.shields.io/badge/🌐 My Website-2ea44f?style=for-the-badge" alt="My Website" /></a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/duytm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    &nbsp;
-    <a href="mailto:minhduy.truong@outlook.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+  <a href="https://github.com/duytm12/duytm12/blob/main/MinhDuyTruong_MR.pdf" target="_blank"><img src="https://img.shields.io/badge/My Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
+  &nbsp;
+  <a href="https://minhduy-truong.com" target="_blank"><img src="https://img.shields.io/badge/🌐 My Website-2ea44f?style=for-the-badge" alt="My Website" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/duytm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:minhduy.truong@outlook.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 </div>
 
 ---
