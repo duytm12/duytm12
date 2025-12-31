@@ -75,4 +75,14 @@ I’m looking to help teams build intelligent, production-ready products that ar
       </td>
     </tr>
   </table>
+
+  ![snake gif](https://github.com/duytm12/duytm12/blob/output/github-snake-dark.svg)
+  
 </div>
+
+
+
+
+  
+  
+  
