@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/duytm12/duytm12/blob/main/Liceria%20&%20Co..jpg?raw=true" width="100%" alt="Banner" />
+  <img src="https://github.com/duytm12/duytm12/blob/main/githubcover.png?raw=true" width="100%" alt="Banner" />
   
   <br />
   <h3 align="center">Software Engineer | .NET & Azure Specialist | Data Scientist</h3>
