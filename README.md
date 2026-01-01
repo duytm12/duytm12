@@ -5,14 +5,22 @@
   <h3 align="center">Software Engineer | .NET & Azure Specialist | Data Scientist</h3>
 
   <p align="center">
-  <a href="https://github.com/duytm12/duytm12/blob/main/MinhDuyTruong_MR.pdf" target="_blank"><img src="https://img.shields.io/badge/My Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
-  &nbsp;
-  <a href="https://minhduy-truong.com" target="_blank"><img src="https://img.shields.io/badge/🌐 My Website-2ea44f?style=for-the-badge" alt="My Website" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/duytm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:minhduy.truong@outlook.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+    <a href="data/MinhDuyTruong_SWE.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/%F0%9F%93%84%20MY%20RESUME-FF5722?style=for-the-badge&labelColor=FF5722" alt="My Resume" />
+    </a>
+    <a href="https://minhduy-truong.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐%20My%20Website-2ea44f?style=for-the-badge" alt="My Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/duytm/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyeiIvPjwvc3ZnPg==" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/duytm12" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:minhduy.truong@outlook.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -30,9 +38,9 @@ I’m looking to help teams build intelligent, production-ready products that ar
 ---
 
 ### ⚡ My Background:
-* 🎓 **M.S. Computer Science (AI/ML) - WGU** (In Progress)
+* 🎓 **M.S. Computer Science (AI/ML) - WGU** (Expected Oct 2026)
 * 🎓 **B.S. Data Analytics - WGU**
-* 🔐 **Security Clearance (SC)**
+* 🔐 **Active Secret Security Clearance**
 * 💼 **MSSA Graduate:** I built production-grade microservices and deployed them with Azure services, with my architectural designs reviewed directly by **Microsoft FTEs**.
 
 ---
