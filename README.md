@@ -36,7 +36,7 @@ I’m looking to help teams build intelligent, production-ready products that ar
 ---
 
 ### 🔭 Current Project
-**[BodyMetrics360](https://metrics360webapp-bmambyahbzfsgxd2.centralus-01.azurewebsites.net)**
+**[BodyMetrics360.com](https://bodymetrics360.com)**   
 *A full-stack health tracking application architected on Azure.*
 
 ---
