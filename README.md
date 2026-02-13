@@ -46,15 +46,20 @@ I’m looking to help teams build intelligent, production-ready products that ar
 
   <table style="border-width:0; border-style: hidden; border-collapse: collapse;">
     <tr>
-      <td align="center" width="33%"><strong>Backend & Engineering</strong></td>
+      <td align="center" width="33%"><strong>Programming</strong></td>
       <td align="center" width="33%"><strong>Cloud & DevOps</strong></td>
-      <td align="center" width="33%"><strong>Database</strong></td>
+      <td align="center" width="33%"><strong>Databases</strong></td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
       </td>
       <td align="center">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
@@ -81,6 +86,4 @@ I’m looking to help teams build intelligent, production-ready products that ar
 
 
 
-  
-  
   
