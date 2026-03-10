@@ -75,6 +75,7 @@ I’m looking to help teams build intelligent, production-ready products that ar
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
+        <img src="https://cloud-icons.onemodel.app/azure/iot/10121-icon-service-Azure-Cosmos-DB.svg" alt="Azure Cosmos DB" width="50" height="50" />
       </td>
     </tr>
   </table>
